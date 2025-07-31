@@ -32,5 +32,12 @@ conda activate miramo
 ## Usage
 Launching soon. Please stay tuned!
 
+## Citation
+If you find this work useful for your research, please consider citing it.
+Launching soon. Please stay tuned!
+
 ## Acknowledgments
 MiraMo has been greatly inspired by the following amazing works and teams: [Latte](https://github.com/Vchitect/Latte) and [SANA](https://github.com/NVlabs/Sana). We thank all the contributors for open-sourcing.
+
+## License
+The code and model weights are licensed under [LICENSE](LICENSE).
