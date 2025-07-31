@@ -1,0 +1,39 @@
+
+ckpt: "The pre-trained models will come soon. Stay tuned!"
+save_img_path: "./sample_videos/results_480p/"
+
+pretrained_model_path: "The pre-trained models will come soon. Stay tuned!"
+# model config: 
+model: 
+  name: MiraMoTransformer3DModel
+  use_motion_guidance: true
+
+video_length: 16
+image_size: [480, 768]
+
+# schedule Flow
+scheduler:
+  train_sampling_steps: 1000
+  predict_flow_v: true
+  noise_schedule: linear_flow
+  pred_sigma: false
+  flow_shift: 3.0
+  weighting_scheme: logit_normal
+  logit_mean: 0.0
+  logit_std: 1.0
+  vis_sampler: flow_dpm-solver
+
+# model speedup
+use_compile: False
+use_fp16: True
+
+# sample config:
+seed:
+run_time: 0
+use_dct: False
+guidance_scale: 6.0
+motion_bucket_id: 15
+num_sampling_steps: 25
+text_prompts: [
+              "windmill turning",
+              ]

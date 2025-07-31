@@ -1,0 +1,2 @@
+export CUDA_VISIBLE_DEVICES=7
+python inference_t2v.py
