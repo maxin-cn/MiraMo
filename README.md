@@ -32,6 +32,14 @@ conda activate miramo
 ## Usage
 Launching soon. Please stay tuned!
 
+## Open-source plan
+
+- [x] T2V Inference 
+- [ ] T2V Checkpoints
+- [ ] I2V Inference 
+- [ ] I2V Checkpoints
+- [ ] Training
+
 ## Citation
 If you find this work useful for your research, please consider citing it.
 Launching soon. Please stay tuned!
