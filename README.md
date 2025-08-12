@@ -1,6 +1,6 @@
 ## Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers<br><sub>Official PyTorch Implementation</sub>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.03048-b31b1b.svg)](https://arxiv.org/abs/2401.03048)
+[![arXiv](https://img.shields.io/badge/arXiv-2401.03048-b31b1b.svg)](https://arxiv.org/abs/2508.07246)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://maxin-cn.github.io/miramo_project/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/maxin-cn/Latte-1)
 
