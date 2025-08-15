@@ -42,7 +42,14 @@ Launching soon. Please stay tuned!
 
 ## Citation
 If you find this work useful for your research, please consider citing it.
-Launching soon. Please stay tuned!
+```
+@article{ma2025consistent,
+  title={Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers},
+  author={Ma, Xin and Wang, Yaohui and Jia, Genyun and Chen, Xinyuan and Wong, Tien-Tsin and Chen, Cunjian},
+  journal={arXiv preprint arXiv:2508.07246},
+  year={2025}
+}
+```
 
 ## Acknowledgments
 MiraMo has been greatly inspired by the following amazing works and teams: [Latte](https://github.com/Vchitect/Latte) and [SANA](https://github.com/NVlabs/Sana). We thank all the contributors for open-sourcing.
