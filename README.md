@@ -1,10 +1,10 @@
-## Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers<br><sub>Official PyTorch Implementation</sub>
+## Consistent and Controllable Image Animation with Linear Motion Diffusion Transformers<br><sub>Official PyTorch Implementation</sub>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2508.07246-b31b1b.svg)](https://arxiv.org/abs/2508.07246)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://maxin-cn.github.io/miramo_project/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/maxin-cn/Latte-1)
 
-> [**Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers**](https://maxin-cn.github.io/cinemo_project/)<br>
+> [**Consistent and Controllable Image Animation with Linear Motion Diffusion Transformers**](https://maxin-cn.github.io/cinemo_project/)<br>
 > [Xin Ma](https://maxin-cn.github.io/), [Yaohui Wang*](https://wyhsirius.github.io/), [Gengyun Jia](https://scholar.google.com/citations?user=_04pkGgAAAAJ&hl=zh-CN), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Tien-Tsin Wong](https://ttwong12.github.io/myself.html), [Cunjian Chen*](https://cunjian.github.io/) <br>
 > (*Corresponding authors)
 
@@ -44,7 +44,7 @@ Launching soon. Please stay tuned!
 If you find this work useful for your research, please consider citing it.
 ```
 @article{ma2025consistent,
-  title={Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers},
+  title={Consistent and Controllable Image Animation with Linear Motion Diffusion Transformers},
   author={Ma, Xin and Wang, Yaohui and Jia, Genyun and Chen, Xinyuan and Wong, Tien-Tsin and Chen, Cunjian},
   journal={arXiv preprint arXiv:2508.07246},
   year={2025}
