@@ -16,6 +16,8 @@ This repo contains pre-trained weights, and sampling code of MiraMo. Please visi
 
 ## News
 
+- 🔥 **Feb. 08, 2026** 💥 Our paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
+
 - 🔥 **Jul. 31, 2025** 💥 The inference code is released. The pre-trained models will come soon. Stay tuned!
 
 ## Setup
